@@ -17,7 +17,7 @@ this repo contains my final project for the __Applied Plotting, Charting & Data 
 ## Results
 ![](images/final.png)
 This visual aims to show how population growth affects the CO2 emissions in Egypt by comparing the population to CO2 emissions from 2000 to 2014.
-the graphs shows that indeed the population growth increases the CO2 emissions but also we can see that it not the only factor because the correlation between them is not 100%
+the graphs shows that indeed the population growth increases the CO2 emissions but also we can see that it not the only factor because the correlation between them is not 100%. the visual can be improved by adding other major cities to the study
 ## Other Assignments Solutions
 ### Assignment 2
 #### Requirements
