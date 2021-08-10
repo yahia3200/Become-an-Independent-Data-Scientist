@@ -27,12 +27,14 @@ __Requirements__
 * An accurate title
 * Correctly labelled axes  
 __Result__
+
 ![](images/Assignment2.png)
 ### Assignment 3
 __Requirements__
 * The bar colors should reflect the bar’s position with respect to the y-axis value (e.g. a gradient ranging from dark blue for the distribution being certainly below this y-axis, to white if the value is certainly contained, to dark red if the value is certainly not contained as the distribution is above the axis).
 * Added interactivity that allows the user to click on the y axis to set the value of interestThe bar colors change appropriately with respect to what value the user has selected.  
 __Result__
+
 ![](images/Assignment3.png)
 ## Course Certificate
 ![](images/Certificate.png)
