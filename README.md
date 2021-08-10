@@ -20,23 +20,21 @@ This visual aims to show how population growth affects the CO2 emissions in Egyp
 the graphs shows that indeed the population growth increases the CO2 emissions but also we can see that it not the only factor because the correlation between them is not 100%
 ## Other Assignments Solutions
 ### Assignment 2
-__Requirements__
+#### Requirements
 * Line graph displaying record highs and lows for 2005-2014
 * Shaded area between the two lines overlaid scatter plot indicates days in 2015 that broke a record high or low for 2005-2014
 * A legend or sufficient labelling for the line graph and scatter plot 
 * An accurate title
 * Correctly labelled axes  
 
-__Result__
-
+#### Result
 ![](images/Assignment2.png)
 ### Assignment 3
-__Requirements__
+#### Requirements
 * The bar colors should reflect the bar’s position with respect to the y-axis value (e.g. a gradient ranging from dark blue for the distribution being certainly below this y-axis, to white if the value is certainly contained, to dark red if the value is certainly not contained as the distribution is above the axis).
 * Added interactivity that allows the user to click on the y axis to set the value of interestThe bar colors change appropriately with respect to what value the user has selected.  
 
-__Result__
-
+#### Result
 ![](images/Assignment3.png)
 ## Course Certificate
 ![](images/Certificate.png)
