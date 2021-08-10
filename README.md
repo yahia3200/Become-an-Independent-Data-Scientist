@@ -10,7 +10,8 @@ this repo contains my final project for the __Applied Plotting, Charting & Data 
 * __State a research question:__ My research was in the environment domain on how the population growth affects the CO2 emissions in Egypt
 * __Finding 2 Data Sets:__
     * _Egypt Population:_ http://data.un.org/_Docs/SYB/CSV/SYB62_323_201906_Teaching%20Staff%20in%20Education.csv
-    * _CO2 Emissions in Egypt:_ https://databank.worldbank.org/data/download/MDG_csv.zip
+    * _CO2 Emissions in Egypt:_
+    https://databank.worldbank.org/data/download/MDG_csv.zip
 * __Data Cleaning__
 * __Data Visualization__
 ## Results
